@@ -19,5 +19,10 @@ cmake ..
 make
 ```
 
+Run the test: 
+```
+./test
+```
+
 ## License
 This software is distributed under the BSD-3-Clause-Clear license. 
